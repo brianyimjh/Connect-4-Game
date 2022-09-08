@@ -1,2 +1,2 @@
-# connect4-game
+# Connect-4-Game
 Code along 
